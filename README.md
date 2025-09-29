@@ -1,5 +1,11 @@
 # Power-Press Machine Safety Automation
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML-brightgreen?logo=tensorflow) 
+![EDA](https://img.shields.io/badge/EDA-Data_Analysis-yellow?logo=apache) 
+
+
 ![11p](https://github.com/user-attachments/assets/593149cf-6092-428d-9511-9709bd4f18b8)
 
 

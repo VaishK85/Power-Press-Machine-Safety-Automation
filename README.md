@@ -2,39 +2,57 @@
 
 ![11p](https://github.com/user-attachments/assets/593149cf-6092-428d-9511-9709bd4f18b8)
 
-# Power-Press Machine Safety Automation
+
 
 ## Project Overview
 This project focuses on safety automation for power-press machines in India.  
 It leverages Python for data analysis and automation logic to study workplace injury cases and explore strategies to improve industrial safety standards. The project aims to identify common causes of injuries and suggest automated measures to mitigate risks in manufacturing environments.
 
 ## Objectives
-- Analyze historical injury data related to power-press machines.
-- Identify key risk factors contributing to workplace accidents.
-- Implement automation logic to enhance machine safety.
-- Provide recommendations for improving industrial safety compliance.
+| Objective | Description |
+|-----------|-------------|
+| Data Analysis | Analyze historical injury data to identify patterns and high-risk operations. |
+| Risk Assessment | Determine the most common causes of accidents and contributing factors. |
+| Automation Logic | Implement Python-based simulations to enhance machine safety. |
+| Safety Recommendations | Provide actionable insights to improve workplace safety compliance. |
+
+---
+
 
 ## Dataset
-The project uses datasets containing information on workplace injuries, including:
-- Type of injury
-- Severity of injury
-- Cause of accident
-- Machine details
-- Location and date of incident
+The project uses datasets containing information about workplace injuries related to power-press machines. Key fields include:
+
+| Column | Description |
+|--------|-------------|
+| `Injury_Type` | Type of injury sustained |
+| `Severity` | Severity level (Minor, Major, Fatal) |
+| `Cause` | Primary cause of accident |
+| `Machine_ID` | Identifier of the machine involved |
+| `Location` | Workplace location of the incident |
+| `Date` | Date of occurrence |
 
 ## Methodology
-1. **Data Cleaning and Preprocessing**  
-   - Handle missing values and inconsistent data.
-   - Standardize categorical variables.
+
+1. **Data Cleaning & Preprocessing**  
+   - Handling missing values and duplicates  
+   - Standardizing categorical variables  
+   - Normalizing numeric fields  
+
 2. **Exploratory Data Analysis (EDA)**  
-   - Univariate and bivariate analysis.
-   - Visualization of trends, patterns, and outliers.
-3. **Automation Logic Implementation**  
-   - Python-based simulation of safety automation protocols.
-   - Risk assessment and alert system for unsafe operations.
-4. **Reporting and Insights**  
-   - Summarize key findings.
-   - Provide actionable recommendations for safety improvements.
+   - Univariate Analysis (distribution of injuries, severity)  
+   - Bivariate Analysis (relationship between cause and severity)  
+   - Outlier detection and trend visualization  
+
+3. **Safety Automation Simulation**  
+   - Python scripts to simulate risk reduction measures  
+   - Automated alert system logic for unsafe operations  
+   - Risk scoring and priority-based safety actions  
+
+4. **Reporting & Insights**  
+   - Data-driven conclusions on accident patterns  
+   - Recommendations for safety improvements  
+   - Visualizations of trends and high-risk operations  
+
 
 ## Tools and Technologies
 - **Programming Language:** Python  
@@ -52,5 +70,4 @@ The project uses datasets containing information on workplace injuries, includin
 - Relevant research papers on industrial automation and safety.
 - Python and data analysis documentation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+

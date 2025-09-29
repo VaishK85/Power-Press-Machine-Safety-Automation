@@ -62,18 +62,18 @@ The project uses datasets containing information about workplace injuries relate
 ##  Visualizations
 
 - **Injury Severity Distribution**  
-  ![Severity Distribution]<img width="723" height="478" alt="image" src="https://github.com/user-attachments/assets/24ad0042-cbbe-4e76-ae17-25686f8edfa1" />
+<img width="723" height="478" alt="image" src="https://github.com/user-attachments/assets/24ad0042-cbbe-4e76-ae17-25686f8edfa1" />
 
 
 - **Accidents by Machine Type**  
-  ![Machine Type Accidents]<img width="832" height="542" alt="image" src="https://github.com/user-attachments/assets/e9d17aae-358d-4c82-9dac-e1403c279d5f" />
+ <img width="832" height="542" alt="image" src="https://github.com/user-attachments/assets/e9d17aae-358d-4c82-9dac-e1403c279d5f" />
 
 
 - **Cause vs Severity Analysis**  
-  ![Cause Severity Analysis]<img width="1017" height="627" alt="image" src="https://github.com/user-attachments/assets/36a4afd9-36a1-461c-8836-e79b6128e070" />
+  <img width="1017" height="627" alt="image" src="https://github.com/user-attachments/assets/36a4afd9-36a1-461c-8836-e79b6128e070" />
 
   - **Monthly Accident Trend** 
-  ![Month Accidents]<img width="1115" height="483" alt="image" src="https://github.com/user-attachments/assets/dad32869-ddfc-4b00-b75a-19eab213389c" />
+ <img width="1115" height="483" alt="image" src="https://github.com/user-attachments/assets/dad32869-ddfc-4b00-b75a-19eab213389c" />
 
 ---
 
